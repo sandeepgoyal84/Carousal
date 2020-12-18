@@ -1,0 +1,11 @@
+.defImage {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+
+.focus {
+  border-radius: 50%;
+  width: 250px;
+  height: 250px;
+}
